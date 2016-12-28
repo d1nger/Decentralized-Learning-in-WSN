@@ -1,2 +1,5 @@
 # Decentralized-Learning-in-WSN
-Decentralized LEarning in Wrieless Sensor Networks
+Decentralized Learning in Wrieless Sensor Networks
+
+#Learning dynamics final project
+Filipchuk Nazar, Hamesse Charles, Al-Kai Kevin, Roobaert Nicolas
